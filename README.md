@@ -1,102 +1,63 @@
-<h1 align="center">Hi there, I'm Tomori77 👋</h1>
+<h1 align="center">嗨，我是 Tomori77 👋</h1>
 
 <p align="center">
-  <a href="https://github.com/Tomori77">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full-stack+Developer;QQ+Bot+Enthusiast;Tool+%26+Mod+Builder;Always+learning+new+things..." alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=%E6%8D%A3%E9%BC%93%E4%B8%80%E4%BA%9B%E5%B0%8F%E7%8E%A9%E5%85%B7+%F0%9F%A7%B8;%E9%9D%A0+AI+%E5%86%99%E4%BB%A3%E7%A0%81%E7%9A%84%E4%BA%BA;%E5%81%9A%E4%B8%80%E7%82%B9%E6%9C%89%E8%B6%A3%E7%9A%84%E4%B8%9C%E8%A5%BF" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tomori77&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/Tomori77?label=Followers&style=flat&color=0e75b6" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/Tomori77?label=Stars&style=flat&color=0e75b6" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=Tomori77&label=%E9%80%9B%E5%93%AA&color=36BCF7&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Tomori77?label=%E5%85%B3%E6%B3%A8&style=flat&color=36BCF7" alt="Followers" />
 </p>
 
 ---
 
-## 🧑💻 About Me
+## 🙋 关于我
 
-- 🎯 专注于 **QQ Bot / 群管工具 / 角色卡工具** 的开发与整合
-- 🛠️ 喜欢把零散的功能模块整合成统一、易用的工具
-- 🌱 正在探索 **C# / Kotlin / Python / JavaScript** 多语言开发
-- 📝 用 Notion + NextJS 搭建自己的博客
-- ⚡ 信条：**Keep it simple, keep it useful.**
+- 🧸 不是大佬，就是个喜欢**捣鼓小玩具**的普通人
+- 🤖 主要靠 **AI 帮忙写代码**，做点自己用得上、觉得好玩的小东西
+- 🎲 做点 **跑团 / QQ 机器人 / 效率小工具** 之类的项目
+- 🌱 边做边学，欢迎交流～
 
 ---
 
-## 🚀 Tech Stack
+## 🎁 我的小玩具
+
+### 🎲 [z-coc-go](https://github.com/Tomori77/z-coc-go) — 克苏鲁跑团房间管理
+
+> 一个给「克苏鲁的呼唤」跑团用的房间管理后端，顺便把网页前端也塞进去了。
+
+- Go 写的后端 + PostgreSQL 存数据，网页端是打包好的 Vue
+- 房间开团、好友、聊天、掷骰、管理员后台这些都有
+- 还能打包成安卓 App（Capacitor）
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
+
+### 💬 [opencode-curator](https://github.com/Tomori77/opencode-curator) — opencode 会话管理器
+
+> 因为 opencode 的聊天记录太多不好管，干脆自己写了个网页来整理。
+
+- 浏览 / 搜索 / 编辑 / 归档 / 删除会话，还能看 token 统计
+- 备份、导出、恢复会话数据一条龙
+- Node.js + TypeScript + React 前后端
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+
+---
+
+## 📊 随便看看
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Tomori77&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tomori77&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tomori77&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tomori77&layout=compact&theme=tokyonight&langs_count=8" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tomori77&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tomori77&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophy" />
-</p>
-
----
-
-## 📌 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🎭 RP-Hub-Toolkit</h3>
-      <p align="center">将分散的 RP 角色卡制作工具整合为一个统一平台。</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/github/stars/Tomori77/RP-Hub-Toolkit?style=flat&color=yellow" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🤖 astrbot_plugin_QQAdmin</h3>
-      <p align="center">群管插件：禁言、踢人、撤回、宵禁、违禁词等一站式管理。</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🧩 IntegrationMod</h3>
-      <p align="center">集成多个功能模块的统一入口模组。</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">💬 vvBot</h3>
-      <p align="center">基于 Kotlin 的机器人项目。</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🐍 Contribution Graph
+## 🐍 摸鱼轨迹
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Tomori77/Tomori77/output/github-contribution-grid-snake.svg" alt="Snake animation" />
@@ -105,5 +66,5 @@
 ---
 
 <p align="center">
-  <i>⭐️ From <a href="https://github.com/Tomori77">Tomori77</a> — 感谢你的访问！</i>
+  <i>谢谢你来逛逛～ 点个 ⭐ 就当鼓励啦 😆</i>
 </p>
