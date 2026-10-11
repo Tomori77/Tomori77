@@ -4,11 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=%E6%8D%A3%E9%BC%93%E4%B8%80%E4%BA%9B%E5%B0%8F%E7%8E%A9%E5%85%B7+%F0%9F%A7%B8;%E9%9D%A0+AI+%E5%86%99%E4%BB%A3%E7%A0%81%E7%9A%84%E4%BA%BA;%E5%81%9A%E4%B8%80%E7%82%B9%E6%9C%89%E8%B6%A3%E7%9A%84%E4%B8%9C%E8%A5%BF" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tomori77&label=%E9%80%9B%E5%93%AA&color=36BCF7&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/Tomori77?label=%E5%85%B3%E6%B3%A8&style=flat&color=36BCF7" alt="Followers" />
-</p>
-
 ---
 
 ## 🙋 关于我
