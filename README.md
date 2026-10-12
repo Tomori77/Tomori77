@@ -41,6 +41,17 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 
+### ⚙️ [opencode-provider-manager](https://github.com/Tomori77/opencode-provider-manager) — opencode 供应商配置小工具
+
+> 配置 opencode 的 API 供应商太麻烦，做了个可视化网页来点点点。
+
+- 填个接口地址和 Key，自动拉取模型列表，一键写进 opencode 配置
+- 供应商的增删改、启用禁用，还有备份 / 恢复
+- Node.js + JavaScript 写的本地小工具（跑起来就一个网页）
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+
 ---
 
 ## 📊 随便看看
