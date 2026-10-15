@@ -1,8 +1,8 @@
-<h1 align="center">嗨，我是 Tomori77 👋</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=200&section=header&text=Tomori77&fontSize=46&fontColor=ffffff&animation=fadeIn&desc=%E6%8D%A3%E9%BC%93%E5%B0%8F%E7%8E%A9%E5%85%B7%20%F0%9F%A7%B8&descSize=20&descAlignY=68" alt="header" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=%E6%8D%A3%E9%BC%93%E4%B8%80%E4%BA%9B%E5%B0%8F%E7%8E%A9%E5%85%B7+%F0%9F%A7%B8;%E9%9D%A0+AI+%E5%86%99%E4%BB%A3%E7%A0%81%E7%9A%84%E4%BA%BA;%E5%81%9A%E4%B8%80%E7%82%B9%E6%9C%89%E8%B6%A3%E7%9A%84%E4%B8%9C%E8%A5%BF" alt="Typing SVG" />
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7C3AED&center=true&vCenter=true&width=435&lines=%E9%9D%A0+AI+%E5%86%99%E4%BB%A3%E7%A0%81%E7%9A%84%E4%BA%BA;%E5%81%9A%E4%B8%80%E7%82%B9%E6%9C%89%E8%B6%A3%E7%9A%84%E4%B8%9C%E8%A5%BF;%E8%B7%91%E5%9B%A2%E2%80%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E2%80%A2%E6%95%88%E7%8E%87%E5%B0%8F%E5%B7%A5%E5%85%B7" alt="Typing SVG" />
+</h1>
 
 ---
 
@@ -52,13 +52,42 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 
+<p align="center">
+  <a href="https://github.com/Tomori77/z-coc-go">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=Tomori77&repo=z-coc-go&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/Tomori77/opencode-curator">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=Tomori77&repo=opencode-curator&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/Tomori77/opencode-provider-manager">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=Tomori77&repo=opencode-provider-manager&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
 ---
 
 ## 📊 随便看看
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Tomori77&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tomori77&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Tomori77&show_icons=true&theme=vision-friendly-dark&hide_border=true" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Tomori77&show_icons=true&theme=default&hide_border=true" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Tomori77&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=6" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tomori77&layout=compact&theme=default&hide_border=true&langs_count=6" />
+  </picture>
+</p>
+
+---
+
+## 📈 摸鱼曲线
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Tomori77&theme=github-dark&hide_border=true&area=true&bg_color=00000000" />
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Tomori77&theme=github&hide_border=true&area=true&bg_color=00000000" />
+  </picture>
 </p>
 
 ---
@@ -66,11 +95,20 @@
 ## 🐍 摸鱼轨迹
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tomori77/Tomori77/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tomori77/Tomori77/output/github-contribution-grid-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/Tomori77/Tomori77/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  </picture>
 </p>
 
 ---
 
+## 💬 随便一句话
+
 <p align="center">
-  <i>谢谢你来逛逛～ 点个 ⭐ 就当鼓励啦 😆</i>
+  <img src="https://github-readme-quotes.vercel.app/quote?theme=tokyonight&animation=grow-out-in" alt="Random Quote" />
 </p>
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=120&section=footer" alt="footer" />
