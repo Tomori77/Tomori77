@@ -81,17 +81,6 @@
 
 ---
 
-## 📈 摸鱼曲线
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Tomori77&theme=github-dark&hide_border=true&area=true&bg_color=00000000" />
-    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Tomori77&theme=github&hide_border=true&area=true&bg_color=00000000" />
-  </picture>
-</p>
-
----
-
 ## 🐍 摸鱼轨迹
 
 <p align="center">
@@ -99,14 +88,6 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tomori77/Tomori77/output/github-contribution-grid-snake-dark.svg" />
     <img src="https://raw.githubusercontent.com/Tomori77/Tomori77/output/github-contribution-grid-snake.svg" alt="Snake animation" />
   </picture>
-</p>
-
----
-
-## 💬 随便一句话
-
-<p align="center">
-  <img src="https://github-readme-quotes.vercel.app/quote?theme=tokyonight&animation=grow-out-in" alt="Random Quote" />
 </p>
 
 ---
